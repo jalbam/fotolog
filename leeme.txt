@@ -1,0 +1,5 @@
+Para configurar usuario y clave, editar las variables $nombre_propietario y $_SESSION['yas_pass'] de edit.php
+Una vez configurados, entrar en edit.php desde el navegador para configurarlo todo.
+Para ver el fotolog, entrar en index.php
+
+By Joan Alba Maldonado.
