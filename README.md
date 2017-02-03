@@ -1,5 +1,5 @@
-PHP Photolog
-============= 
+PHP Photoblog
+============== 
 by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Simple and configurable photoblog in PHP.
